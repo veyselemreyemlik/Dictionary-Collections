@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4OHbuTJILd4dHEY+W7oQkWeBW4+xhpYoF9BLrOEXOBhdyi9tKk1WgnJJARgh85JiHjNgf3TAmOZejBgQ36sEzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\veyse\\OneDrive\\Masaüstü\\Lab Uygulamaları\\Dictionary-Collections\\Dictionary-Collections\\Dictionary-Collections.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\veyse\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

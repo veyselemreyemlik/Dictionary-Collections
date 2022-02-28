@@ -1,0 +1,16 @@
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\Dictionary-Collections\Dictionary-Collections\bin\Debug\net5.0\Dictionary-Collections.exe
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\Dictionary-Collections\Dictionary-Collections\bin\Debug\net5.0\Dictionary-Collections.deps.json
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\Dictionary-Collections\Dictionary-Collections\bin\Debug\net5.0\Dictionary-Collections.runtimeconfig.json
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\Dictionary-Collections\Dictionary-Collections\bin\Debug\net5.0\Dictionary-Collections.runtimeconfig.dev.json
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\Dictionary-Collections\Dictionary-Collections\bin\Debug\net5.0\Dictionary-Collections.dll
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\Dictionary-Collections\Dictionary-Collections\bin\Debug\net5.0\ref\Dictionary-Collections.dll
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\Dictionary-Collections\Dictionary-Collections\bin\Debug\net5.0\Dictionary-Collections.pdb
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\Dictionary-Collections\Dictionary-Collections\obj\Debug\net5.0\Dictionary-Collections.csproj.AssemblyReference.cache
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\Dictionary-Collections\Dictionary-Collections\obj\Debug\net5.0\Dictionary-Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\Dictionary-Collections\Dictionary-Collections\obj\Debug\net5.0\Dictionary-Collections.AssemblyInfoInputs.cache
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\Dictionary-Collections\Dictionary-Collections\obj\Debug\net5.0\Dictionary-Collections.AssemblyInfo.cs
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\Dictionary-Collections\Dictionary-Collections\obj\Debug\net5.0\Dictionary-Collections.csproj.CoreCompileInputs.cache
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\Dictionary-Collections\Dictionary-Collections\obj\Debug\net5.0\Dictionary-Collections.dll
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\Dictionary-Collections\Dictionary-Collections\obj\Debug\net5.0\ref\Dictionary-Collections.dll
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\Dictionary-Collections\Dictionary-Collections\obj\Debug\net5.0\Dictionary-Collections.pdb
+C:\Users\veyse\OneDrive\Masaüstü\Lab Uygulamaları\Dictionary-Collections\Dictionary-Collections\obj\Debug\net5.0\Dictionary-Collections.genruntimeconfig.cache
